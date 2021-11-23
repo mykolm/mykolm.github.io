@@ -1,7 +1,7 @@
 |a|b|c|
 |-|-|-|
 
-[test](http://link/a_(with_brackets))
+[test](http://link/a_%28with_brackets%29)
 ```specfile
 BuildRequires: something
 
